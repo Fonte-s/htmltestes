@@ -1,0 +1,21 @@
+body{
+    font: 20px Times-new-roman;
+}
+.navbary  {
+    background-color:red;
+}
+.quem-somos{
+    background-color: rgb(163, 142, 184);
+    color: whitesmoke
+}
+.margin{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.teoria{
+ background-color: burlywood;
+}
+.margin-p {
+padding-top:50px;
+}
+    
